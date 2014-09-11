@@ -84,21 +84,6 @@ header p {
 	box-shadow:0px 3px 0 #061032;
 	opacity:0.5;
 }
-/*.mapContainer {
-	float:left;
-	width: 160px;
-	height: 400px;
-	overflow: hidden;
-	border-top: 10px solid #fff;
-	border-bottom: 10px solid #fff;
-	-webkit-transform-style: preserve-3d;
-    -moz-transform-style: preserve-3d;
-    -ms-transform-style: preserve-3d;
-    -o-transform-style: preserve-3d;
-    transform-style: preserve-3d;
-
-
-}*/
 .mapContainer {
 	background:#fff;
 	float:left;
